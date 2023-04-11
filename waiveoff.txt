@@ -1,0 +1,25 @@
+A Request to waive off the bills
+
+Hi Team,
+
+I am new to AWS and i just started learning or exploring resources of different services available in AWS since i am not aware of the charges for the usage of resources (currently used: free tier)and  i am still under learning of the services ,i would like to request waive off the bills since i was not afford to pay now as i am student.
+
+My account is showing as suspended for Non-payment since i m learning please do the neeedful to reactivate my aws account, i am not using any services apart from free tier still i am getting monthly bill ,i am not understanding the reason why its happening so Please help us in resolving this issue and do needful
+
+I will make sure that i am utilizing the services and its resources judiciously 
+
+Thanks
+Padmini
+
+
+
+Manage Amazon Web Services ELB,EC2 S3,RDS,Cloudwatch
+Create S3 buckets and also managing policies for S3 buckets
+Expertise in architecting secure , VPC solutions with the help of Network ACLs , security groups , public and private network configurations
+experience in managing and maintaining IAM policies for organizations in AWS to define groups , create users ,assign rules for role based access to AWS resources
+create snapshots and Amazon Machine Images (AMIs) of the instances for backup and creating clone instances.
+Used JIRA to track issues and Change Management.
+Manage systems routine backup , scheduling jobs , enabling cron jobs , enabling system logging and network logging of servers for maintenance
+create and maintain user's accounts, profiles,security,rights disk space and process monitoring
+provide technical support by troubleshooting day to ay issues with various servers on different platforms.
+
